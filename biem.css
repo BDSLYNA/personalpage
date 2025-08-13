@@ -1,0 +1,165 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: black;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20;
+}
+
+
+td{
+    text-align: center;
+    width: 100px;
+    height: 75px;
+    font-size: 24;
+        
+}
+
+.none{
+     border: 1px solid black;
+}
+
+.green {
+    color: limegreen;
+    border: 1px solid limegreen;
+}
+.bluegreen {
+    color: cyan;
+    border: 1px solid cyan;
+}
+.pink{
+     text-align: center;
+    border: 1px solid palevioletred;
+    color: palevioletred;
+}
+.yellow{
+     text-align: center;
+    border: 1px solid yellow;
+    color: yellow;
+}
+.purple{
+     text-align: center;
+    border: 1px solid purple;
+    color: purple;
+}
+.orange{
+     text-align: center;
+    border: 1px solid orangered;
+    color: orangered;
+}
+.realorange{
+     text-align: center;
+    border: 1px solid orange;
+    color: orange;
+}
+.gray{
+     text-align: center;
+    border: 1px solid gray;
+    color: gray;
+}
+.blue{
+     text-align: center;
+    border: 1px solid lightblue;
+    color: lightblue;
+}
+.lime{
+     text-align: center;
+    border: 1px solid lime;
+    color: lime;
+}
+.left{
+    text-align: left;
+    font-size: 12   ;
+    color: whitesmoke;
+    padding-left: 2px;
+}
+
+
+.gas{
+    color: #d97f7e;
+    font-size: 10;
+}
+.solid{
+    font-size: 10;
+    color: white;
+}
+.liquid{
+    font-size: 10;
+    color: #3b6f94;
+}
+.unknown{
+    font-size: 10;
+    color: #e3df7b;
+    
+
+}
+.white{
+    color: white;
+    font-size: 18;
+    font-weight: bold;
+}
+th{
+    color: white;
+    font-size: 15;
+}
+.yellow:hover{
+    background-color: rgb(152, 152, 8);
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.blue:hover{
+    background-color: lightblue;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}.gray:hover{
+    background-color: gray;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.lime:hover{
+    background-color: lime;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.orange:hover{
+    background-color: orangered;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.realorange:hover{
+    background-color: orange;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.purple:hover{
+    background-color: purple;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.bluegreen:hover{
+    background-color: cyan;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.pink:hover{
+    background-color: palevioletred;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
+.green:hover{
+    background-color: limegreen;
+    color: black;
+    font-size: 41;
+    font-weight: bolder;
+}
